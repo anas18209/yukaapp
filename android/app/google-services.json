@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1048919459319",
+    "project_id": "yukaapp-94d89",
+    "storage_bucket": "yukaapp-94d89.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048919459319:android:ed1ae82308d6cf89485af2",
+        "android_client_info": {
+          "package_name": "com.example.yukaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFgK13-wNtMfcAzat2teMICqm4qqUUdmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

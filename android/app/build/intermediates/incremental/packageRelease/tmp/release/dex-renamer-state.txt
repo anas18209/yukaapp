@@ -1,0 +1,4 @@
+#Fri Feb 21 15:17:36 IST 2025
+base.0=/Users/kartikdonga/yukaapp/android/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

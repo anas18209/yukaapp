@@ -1,0 +1,560 @@
+-- Merging decision tree log ---
+application
+INJECTED from /Users/kartikdonga/yukaapp/android/app/src/main/AndroidManifest.xml:4:5-35:19
+INJECTED from /Users/kartikdonga/yukaapp/android/app/src/debug/AndroidManifest.xml
+MERGED from [:simple_barcode_scanner] /Users/kartikdonga/.pub-cache/hosted/pub.dev/simple_barcode_scanner-0.3.0/android/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:13:5-17:19
+MERGED from [:simple_barcode_scanner] /Users/kartikdonga/.pub-cache/hosted/pub.dev/simple_barcode_scanner-0.3.0/android/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:13:5-17:19
+MERGED from [androidx.camera:camera-core:1.3.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/73a3c436f1c8a3e965de09e8e275b859/transformed/jetified-camera-core-1.3.1/AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-core:1.3.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/73a3c436f1c8a3e965de09e8e275b859/transformed/jetified-camera-core-1.3.1/AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-camera2:1.3.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/4037082490325e85791822445558c6c3/transformed/jetified-camera-camera2-1.3.1/AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-camera2:1.3.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/4037082490325e85791822445558c6c3/transformed/jetified-camera-camera2-1.3.1/AndroidManifest.xml:23:5-34:19
+MERGED from [com.google.android.material:material:1.3.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/50a10dbf92000e8a4c097469de4a0072/transformed/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/50a10dbf92000e8a4c097469de4a0072/transformed/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/f65105042ad97332f213823046a213d1/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/f65105042ad97332f213823046a213d1/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-vision:20.1.3] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/e77d9a0b0780d5fea712f4df795928e5/transformed/jetified-play-services-vision-20.1.3/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:20.1.3] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/e77d9a0b0780d5fea712f4df795928e5/transformed/jetified-play-services-vision-20.1.3/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/b4c7238476297aae836e6939e70d83d1/transformed/jetified-play-services-mlkit-barcode-scanning-18.3.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/b4c7238476297aae836e6939e70d83d1/transformed/jetified-play-services-mlkit-barcode-scanning-18.3.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:vision-common:17.3.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/1ae91f698bcbf11d0b971bacb5e1d977/transformed/jetified-vision-common-17.3.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:vision-common:17.3.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/1ae91f698bcbf11d0b971bacb5e1d977/transformed/jetified-vision-common-17.3.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:common:18.9.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/2bf4a0341c8d30f8ce139d1ec6052351/transformed/jetified-common-18.9.0/AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.mlkit:common:18.9.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/2bf4a0341c8d30f8ce139d1ec6052351/transformed/jetified-common-18.9.0/AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.3] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/7076a22133c2f22146acbf7bcb739982/transformed/jetified-play-services-vision-common-19.1.3/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.3] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/7076a22133c2f22146acbf7bcb739982/transformed/jetified-play-services-vision-common-19.1.3/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/1a5d1d70e255d8bedfb837853dcf320e/transformed/jetified-play-services-clearcut-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/1a5d1d70e255d8bedfb837853dcf320e/transformed/jetified-play-services-clearcut-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/7a59616c9aeee9fc1a761473c052d718/transformed/jetified-play-services-phenotype-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/7a59616c9aeee9fc1a761473c052d718/transformed/jetified-play-services-phenotype-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/54d5906a97075e5f659c23405985cd0a/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/54d5906a97075e5f659c23405985cd0a/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/225f79d7efa92bceaf3783f7902e7298/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/225f79d7efa92bceaf3783f7902e7298/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/0a60e3b46b61fcc8b97c1365700d5d34/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/0a60e3b46b61fcc8b97c1365700d5d34/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.window:window:1.2.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/a7130b998d61b810572eaef6b332ef46/transformed/jetified-window-1.2.0/AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.window:window:1.2.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/a7130b998d61b810572eaef6b332ef46/transformed/jetified-window-1.2.0/AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.core:core:1.13.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/918aa409debbc9a2ff8bdb56e9c80a9e/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/918aa409debbc9a2ff8bdb56e9c80a9e/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/58a53480758983b5b5344317a784e4e3/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/58a53480758983b5b5344317a784e4e3/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/f095e34f77be7a6367e8149f84a31ef5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/f095e34f77be7a6367e8149f84a31ef5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/8649fd127f340363591471f857d25ba5/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/8649fd127f340363591471f857d25ba5/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/fc532cc80abcdc936b10bf9b30c7a594/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/fc532cc80abcdc936b10bf9b30c7a594/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/790346a04aa70431edc31fc36c07d46b/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/790346a04aa70431edc31fc36c07d46b/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/367d09835625c4919cd1576cf1537515/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/367d09835625c4919cd1576cf1537515/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/0e41270407c9f24b7305b18cfe7361cc/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/0e41270407c9f24b7305b18cfe7361cc/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:7:5-20
+	android:extractNativeLibs
+		INJECTED from /Users/kartikdonga/yukaapp/android/app/src/debug/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/918aa409debbc9a2ff8bdb56e9c80a9e/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
+	android:largeHeap
+		ADDED from [:simple_barcode_scanner] /Users/kartikdonga/.pub-cache/hosted/pub.dev/simple_barcode_scanner-0.3.0/android/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:14:9-33
+	android:theme
+		ADDED from [:simple_barcode_scanner] /Users/kartikdonga/.pub-cache/hosted/pub.dev/simple_barcode_scanner-0.3.0/android/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:15:9-59
+	android:name
+		INJECTED from /Users/kartikdonga/yukaapp/android/app/src/main/AndroidManifest.xml
+manifest
+ADDED from /Users/kartikdonga/yukaapp/android/app/src/main/AndroidManifest.xml:1:1-47:12
+MERGED from /Users/kartikdonga/yukaapp/android/app/src/main/AndroidManifest.xml:1:1-47:12
+INJECTED from /Users/kartikdonga/yukaapp/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/kartikdonga/yukaapp/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/kartikdonga/yukaapp/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+MERGED from [:simple_barcode_scanner] /Users/kartikdonga/.pub-cache/hosted/pub.dev/simple_barcode_scanner-0.3.0/android/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-19:12
+MERGED from [:flutter_plugin_android_lifecycle] /Users/kartikdonga/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.24/android/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [:mobile_scanner] /Users/kartikdonga/.pub-cache/hosted/pub.dev/mobile_scanner-3.5.7/android/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-13:12
+MERGED from [:permission_handler_android] /Users/kartikdonga/.pub-cache/hosted/pub.dev/permission_handler_android-12.0.13/android/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.camera:camera-core:1.3.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/73a3c436f1c8a3e965de09e8e275b859/transformed/jetified-camera-core-1.3.1/AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.camera:camera-camera2:1.3.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/4037082490325e85791822445558c6c3/transformed/jetified-camera-camera2-1.3.1/AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.camera:camera-lifecycle:1.3.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/2a9c5bdba35c1e6bf9f8f6a916ad44e3/transformed/jetified-camera-lifecycle-1.3.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.3.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/50a10dbf92000e8a4c097469de4a0072/transformed/material-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/f65105042ad97332f213823046a213d1/transformed/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/8cb9a4a1554f3fc11a964b6c8dc4d2fe/transformed/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/75437d276230a2c1ef128ea177fc618f/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.mlkit:barcode-scanning:17.2.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/36ba7f4634ca71e9b248da3917f68dca/transformed/jetified-barcode-scanning-17.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-vision:20.1.3] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/e77d9a0b0780d5fea712f4df795928e5/transformed/jetified-play-services-vision-20.1.3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/b4c7238476297aae836e6939e70d83d1/transformed/jetified-play-services-mlkit-barcode-scanning-18.3.0/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.mlkit:barcode-scanning-common:17.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/58e7665d6192fe7eda353980593aba38/transformed/jetified-barcode-scanning-common-17.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.mlkit:vision-common:17.3.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/1ae91f698bcbf11d0b971bacb5e1d977/transformed/jetified-vision-common-17.3.0/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.mlkit:common:18.9.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/2bf4a0341c8d30f8ce139d1ec6052351/transformed/jetified-common-18.9.0/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.3] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/7076a22133c2f22146acbf7bcb739982/transformed/jetified-play-services-vision-common-19.1.3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/1a5d1d70e255d8bedfb837853dcf320e/transformed/jetified-play-services-clearcut-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/c6dea3b3073809b0fd4271634b5f4673/transformed/jetified-play-services-flags-17.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/7a59616c9aeee9fc1a761473c052d718/transformed/jetified-play-services-phenotype-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/54d5906a97075e5f659c23405985cd0a/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.mlkit:vision-interfaces:16.2.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/794a54d807e31976a9aad1d736a886c5/transformed/jetified-vision-interfaces-16.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/225f79d7efa92bceaf3783f7902e7298/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/0a60e3b46b61fcc8b97c1365700d5d34/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/58577933345f045ca4fd05157d94851f/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.7.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/6d97fe63938dbca8f26ba6c6a07db84b/transformed/fragment-1.7.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.window:window:1.2.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/a7130b998d61b810572eaef6b332ef46/transformed/jetified-window-1.2.0/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.window:window-java:1.2.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/6dd3ac641f488244d9ba4afb2a1ea320/transformed/jetified-window-java-1.2.0/AndroidManifest.xml:17:1-21:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/be9b6dc9a3aa61816e14105c6e5f29d1/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/6cbf987dbaa49766aa1f6733e5cdcc7b/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/18694657c4e9d904e835cd4e7eb9726c/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/282e30d219f1ff6a02d2059bc7413d17/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/f8d6ce084e4c48590a0d1f6a28b74be4/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/4a0b558f1afd0b1cf54e94c26e6a1faf/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/4aa0cf2fd2b5adc68e1242954ba881ad/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/4605de05269a9d9062c2c77f976645f5/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/611d672dd706c2dc46a815b687c72616/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/d97556934e15ebe782773b6d48c39986/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/25ef9d89e2415f663398aae11ab7f47c/transformed/jetified-activity-1.8.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/3f7d26830b8b00626bf5c9bfb9cb0d49/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/48e1bb08e67baaee425e65da7fa64131/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/283fed29d3e1511672b19e86d817f317/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/f5346fa97277581317516ca1c271778c/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/1a856fb1b88d50df23a07770b8d87597/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/288b3cba138d28d9539357a16e15db57/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/9d5b8770b62564a770571d0c5427cd1e/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/7e3d4f350aaa856316b5e73ccd53b23a/transformed/jetified-core-ktx-1.13.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/c188fbf522d0165566ab1330010dcb2e/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/96bc526ff1d554fb74c1dd89a3e69c08/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/ff79ff915379e10ea233aedc60095bca/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/27e0ee56551014307b2c03c258b8a637/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/f50bc791e8665cb50fb6dfd5b1436383/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.13.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/918aa409debbc9a2ff8bdb56e9c80a9e/transformed/core-1.13.1/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/215a06ad8c5c6e2620876b093e4c404f/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/58a53480758983b5b5344317a784e4e3/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/945846433fb7787ccf7ce707189f6390/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/f095e34f77be7a6367e8149f84a31ef5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/8649fd127f340363591471f857d25ba5/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/8c6eb258a22a4156b78cb4ccaef3ccb6/transformed/jetified-tracing-1.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/8fdefedb309f17624afcb61be5475975/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/4663df0d6a21b3b21575c382ac5cf589/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/5ba4eef65a26635609b0839b77e37d77/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/fc532cc80abcdc936b10bf9b30c7a594/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/f0c5e649e68321fd721268a22ac3b75d/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/790346a04aa70431edc31fc36c07d46b/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/367d09835625c4919cd1576cf1537515/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/11fd250b7f6c93b1c70f075c841ed2e0/transformed/jetified-transport-api-2.2.1/AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/45fdc1e173e7c34edcc82497d6c260f6/transformed/jetified-firebase-components-16.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/f0aec0242e5773cc19aba1e850cadf46/transformed/jetified-firebase-encoders-json-17.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/13b44299565f0f02d4df90d7cf33afaf/transformed/exifinterface-1.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/50b4d86790af1bf748a63f009dc38c2a/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/3319d20f8e2669ec6f44977658d2b94a/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/6fff338ba585ae053fbd544a7d77cb04/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.window.extensions.core:core:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/c76420ff2784f5aa74dd8234a1394fd3/transformed/jetified-core-1.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/50cf800a1100a1cd9d6a4426cd9e1df0/transformed/jetified-annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/8cbab28268e55d993d44b385150b3ac1/transformed/jetified-relinker-1.4.5/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/0e41270407c9f24b7305b18cfe7361cc/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:2:1-9:12
+	package
+		INJECTED from /Users/kartikdonga/yukaapp/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/kartikdonga/yukaapp/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/kartikdonga/yukaapp/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kartikdonga/yukaapp/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/kartikdonga/yukaapp/android/app/src/main/AndroidManifest.xml:2:5-64
+MERGED from [:simple_barcode_scanner] /Users/kartikdonga/.pub-cache/hosted/pub.dev/simple_barcode_scanner-0.3.0/android/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:7:5-65
+MERGED from [:simple_barcode_scanner] /Users/kartikdonga/.pub-cache/hosted/pub.dev/simple_barcode_scanner-0.3.0/android/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:7:5-65
+MERGED from [:mobile_scanner] /Users/kartikdonga/.pub-cache/hosted/pub.dev/mobile_scanner-3.5.7/android/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:7:5-65
+MERGED from [:mobile_scanner] /Users/kartikdonga/.pub-cache/hosted/pub.dev/mobile_scanner-3.5.7/android/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from /Users/kartikdonga/yukaapp/android/app/src/main/AndroidManifest.xml:2:22-62
+queries
+ADDED from /Users/kartikdonga/yukaapp/android/app/src/main/AndroidManifest.xml:41:5-46:15
+intent#action:name:android.intent.action.PROCESS_TEXT+data:mimeType:text/plain
+ADDED from /Users/kartikdonga/yukaapp/android/app/src/main/AndroidManifest.xml:42:9-45:18
+action#android.intent.action.PROCESS_TEXT
+ADDED from /Users/kartikdonga/yukaapp/android/app/src/main/AndroidManifest.xml:43:13-72
+	android:name
+		ADDED from /Users/kartikdonga/yukaapp/android/app/src/main/AndroidManifest.xml:43:21-70
+data
+ADDED from /Users/kartikdonga/yukaapp/android/app/src/main/AndroidManifest.xml:44:13-50
+	android:mimeType
+		ADDED from /Users/kartikdonga/yukaapp/android/app/src/main/AndroidManifest.xml:44:19-48
+uses-permission#android.permission.INTERNET
+ADDED from /Users/kartikdonga/yukaapp/android/app/src/debug/AndroidManifest.xml:6:5-66
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/790346a04aa70431edc31fc36c07d46b/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/790346a04aa70431edc31fc36c07d46b/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from /Users/kartikdonga/yukaapp/android/app/src/debug/AndroidManifest.xml:6:22-64
+uses-sdk
+INJECTED from /Users/kartikdonga/yukaapp/android/app/src/debug/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kartikdonga/yukaapp/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/kartikdonga/yukaapp/android/app/src/debug/AndroidManifest.xml
+MERGED from [:simple_barcode_scanner] /Users/kartikdonga/.pub-cache/hosted/pub.dev/simple_barcode_scanner-0.3.0/android/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:simple_barcode_scanner] /Users/kartikdonga/.pub-cache/hosted/pub.dev/simple_barcode_scanner-0.3.0/android/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /Users/kartikdonga/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.24/android/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /Users/kartikdonga/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.24/android/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:mobile_scanner] /Users/kartikdonga/.pub-cache/hosted/pub.dev/mobile_scanner-3.5.7/android/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:mobile_scanner] /Users/kartikdonga/.pub-cache/hosted/pub.dev/mobile_scanner-3.5.7/android/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler_android] /Users/kartikdonga/.pub-cache/hosted/pub.dev/permission_handler_android-12.0.13/android/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler_android] /Users/kartikdonga/.pub-cache/hosted/pub.dev/permission_handler_android-12.0.13/android/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-core:1.3.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/73a3c436f1c8a3e965de09e8e275b859/transformed/jetified-camera-core-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-core:1.3.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/73a3c436f1c8a3e965de09e8e275b859/transformed/jetified-camera-core-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-camera2:1.3.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/4037082490325e85791822445558c6c3/transformed/jetified-camera-camera2-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-camera2:1.3.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/4037082490325e85791822445558c6c3/transformed/jetified-camera-camera2-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-lifecycle:1.3.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/2a9c5bdba35c1e6bf9f8f6a916ad44e3/transformed/jetified-camera-lifecycle-1.3.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-lifecycle:1.3.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/2a9c5bdba35c1e6bf9f8f6a916ad44e3/transformed/jetified-camera-lifecycle-1.3.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.3.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/50a10dbf92000e8a4c097469de4a0072/transformed/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/50a10dbf92000e8a4c097469de4a0072/transformed/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/f65105042ad97332f213823046a213d1/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/f65105042ad97332f213823046a213d1/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/8cb9a4a1554f3fc11a964b6c8dc4d2fe/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/8cb9a4a1554f3fc11a964b6c8dc4d2fe/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/75437d276230a2c1ef128ea177fc618f/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/75437d276230a2c1ef128ea177fc618f/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.mlkit:barcode-scanning:17.2.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/36ba7f4634ca71e9b248da3917f68dca/transformed/jetified-barcode-scanning-17.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:barcode-scanning:17.2.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/36ba7f4634ca71e9b248da3917f68dca/transformed/jetified-barcode-scanning-17.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:20.1.3] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/e77d9a0b0780d5fea712f4df795928e5/transformed/jetified-play-services-vision-20.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:20.1.3] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/e77d9a0b0780d5fea712f4df795928e5/transformed/jetified-play-services-vision-20.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/b4c7238476297aae836e6939e70d83d1/transformed/jetified-play-services-mlkit-barcode-scanning-18.3.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/b4c7238476297aae836e6939e70d83d1/transformed/jetified-play-services-mlkit-barcode-scanning-18.3.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:barcode-scanning-common:17.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/58e7665d6192fe7eda353980593aba38/transformed/jetified-barcode-scanning-common-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:barcode-scanning-common:17.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/58e7665d6192fe7eda353980593aba38/transformed/jetified-barcode-scanning-common-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:vision-common:17.3.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/1ae91f698bcbf11d0b971bacb5e1d977/transformed/jetified-vision-common-17.3.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:vision-common:17.3.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/1ae91f698bcbf11d0b971bacb5e1d977/transformed/jetified-vision-common-17.3.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:18.9.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/2bf4a0341c8d30f8ce139d1ec6052351/transformed/jetified-common-18.9.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:18.9.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/2bf4a0341c8d30f8ce139d1ec6052351/transformed/jetified-common-18.9.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.3] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/7076a22133c2f22146acbf7bcb739982/transformed/jetified-play-services-vision-common-19.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.3] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/7076a22133c2f22146acbf7bcb739982/transformed/jetified-play-services-vision-common-19.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/1a5d1d70e255d8bedfb837853dcf320e/transformed/jetified-play-services-clearcut-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/1a5d1d70e255d8bedfb837853dcf320e/transformed/jetified-play-services-clearcut-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/c6dea3b3073809b0fd4271634b5f4673/transformed/jetified-play-services-flags-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/c6dea3b3073809b0fd4271634b5f4673/transformed/jetified-play-services-flags-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/7a59616c9aeee9fc1a761473c052d718/transformed/jetified-play-services-phenotype-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/7a59616c9aeee9fc1a761473c052d718/transformed/jetified-play-services-phenotype-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/54d5906a97075e5f659c23405985cd0a/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/54d5906a97075e5f659c23405985cd0a/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.mlkit:vision-interfaces:16.2.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/794a54d807e31976a9aad1d736a886c5/transformed/jetified-vision-interfaces-16.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:vision-interfaces:16.2.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/794a54d807e31976a9aad1d736a886c5/transformed/jetified-vision-interfaces-16.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/225f79d7efa92bceaf3783f7902e7298/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/225f79d7efa92bceaf3783f7902e7298/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/0a60e3b46b61fcc8b97c1365700d5d34/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/0a60e3b46b61fcc8b97c1365700d5d34/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/58577933345f045ca4fd05157d94851f/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/58577933345f045ca4fd05157d94851f/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.7.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/6d97fe63938dbca8f26ba6c6a07db84b/transformed/fragment-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.7.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/6d97fe63938dbca8f26ba6c6a07db84b/transformed/fragment-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window:1.2.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/a7130b998d61b810572eaef6b332ef46/transformed/jetified-window-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window:1.2.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/a7130b998d61b810572eaef6b332ef46/transformed/jetified-window-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window-java:1.2.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/6dd3ac641f488244d9ba4afb2a1ea320/transformed/jetified-window-java-1.2.0/AndroidManifest.xml:19:5-44
+MERGED from [androidx.window:window-java:1.2.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/6dd3ac641f488244d9ba4afb2a1ea320/transformed/jetified-window-java-1.2.0/AndroidManifest.xml:19:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/be9b6dc9a3aa61816e14105c6e5f29d1/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/be9b6dc9a3aa61816e14105c6e5f29d1/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/6cbf987dbaa49766aa1f6733e5cdcc7b/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/6cbf987dbaa49766aa1f6733e5cdcc7b/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/18694657c4e9d904e835cd4e7eb9726c/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/18694657c4e9d904e835cd4e7eb9726c/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/282e30d219f1ff6a02d2059bc7413d17/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/282e30d219f1ff6a02d2059bc7413d17/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/f8d6ce084e4c48590a0d1f6a28b74be4/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/f8d6ce084e4c48590a0d1f6a28b74be4/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/4a0b558f1afd0b1cf54e94c26e6a1faf/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/4a0b558f1afd0b1cf54e94c26e6a1faf/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/4aa0cf2fd2b5adc68e1242954ba881ad/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/4aa0cf2fd2b5adc68e1242954ba881ad/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/4605de05269a9d9062c2c77f976645f5/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/4605de05269a9d9062c2c77f976645f5/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/611d672dd706c2dc46a815b687c72616/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/611d672dd706c2dc46a815b687c72616/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/d97556934e15ebe782773b6d48c39986/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/d97556934e15ebe782773b6d48c39986/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/25ef9d89e2415f663398aae11ab7f47c/transformed/jetified-activity-1.8.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/25ef9d89e2415f663398aae11ab7f47c/transformed/jetified-activity-1.8.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/3f7d26830b8b00626bf5c9bfb9cb0d49/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/3f7d26830b8b00626bf5c9bfb9cb0d49/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/48e1bb08e67baaee425e65da7fa64131/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/48e1bb08e67baaee425e65da7fa64131/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/283fed29d3e1511672b19e86d817f317/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/283fed29d3e1511672b19e86d817f317/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/f5346fa97277581317516ca1c271778c/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/f5346fa97277581317516ca1c271778c/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/1a856fb1b88d50df23a07770b8d87597/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/1a856fb1b88d50df23a07770b8d87597/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/288b3cba138d28d9539357a16e15db57/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/288b3cba138d28d9539357a16e15db57/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/9d5b8770b62564a770571d0c5427cd1e/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/9d5b8770b62564a770571d0c5427cd1e/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/7e3d4f350aaa856316b5e73ccd53b23a/transformed/jetified-core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/7e3d4f350aaa856316b5e73ccd53b23a/transformed/jetified-core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/c188fbf522d0165566ab1330010dcb2e/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/c188fbf522d0165566ab1330010dcb2e/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/96bc526ff1d554fb74c1dd89a3e69c08/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/96bc526ff1d554fb74c1dd89a3e69c08/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/ff79ff915379e10ea233aedc60095bca/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/ff79ff915379e10ea233aedc60095bca/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/27e0ee56551014307b2c03c258b8a637/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/27e0ee56551014307b2c03c258b8a637/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/f50bc791e8665cb50fb6dfd5b1436383/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/f50bc791e8665cb50fb6dfd5b1436383/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/918aa409debbc9a2ff8bdb56e9c80a9e/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/918aa409debbc9a2ff8bdb56e9c80a9e/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/215a06ad8c5c6e2620876b093e4c404f/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/215a06ad8c5c6e2620876b093e4c404f/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/58a53480758983b5b5344317a784e4e3/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/58a53480758983b5b5344317a784e4e3/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/945846433fb7787ccf7ce707189f6390/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/945846433fb7787ccf7ce707189f6390/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/f095e34f77be7a6367e8149f84a31ef5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/f095e34f77be7a6367e8149f84a31ef5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/8649fd127f340363591471f857d25ba5/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/8649fd127f340363591471f857d25ba5/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/8c6eb258a22a4156b78cb4ccaef3ccb6/transformed/jetified-tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/8c6eb258a22a4156b78cb4ccaef3ccb6/transformed/jetified-tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/8fdefedb309f17624afcb61be5475975/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/8fdefedb309f17624afcb61be5475975/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/4663df0d6a21b3b21575c382ac5cf589/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/4663df0d6a21b3b21575c382ac5cf589/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/5ba4eef65a26635609b0839b77e37d77/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/5ba4eef65a26635609b0839b77e37d77/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/fc532cc80abcdc936b10bf9b30c7a594/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/fc532cc80abcdc936b10bf9b30c7a594/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/f0c5e649e68321fd721268a22ac3b75d/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/f0c5e649e68321fd721268a22ac3b75d/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/790346a04aa70431edc31fc36c07d46b/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/790346a04aa70431edc31fc36c07d46b/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/367d09835625c4919cd1576cf1537515/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/367d09835625c4919cd1576cf1537515/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/11fd250b7f6c93b1c70f075c841ed2e0/transformed/jetified-transport-api-2.2.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/11fd250b7f6c93b1c70f075c841ed2e0/transformed/jetified-transport-api-2.2.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/45fdc1e173e7c34edcc82497d6c260f6/transformed/jetified-firebase-components-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/45fdc1e173e7c34edcc82497d6c260f6/transformed/jetified-firebase-components-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/f0aec0242e5773cc19aba1e850cadf46/transformed/jetified-firebase-encoders-json-17.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/f0aec0242e5773cc19aba1e850cadf46/transformed/jetified-firebase-encoders-json-17.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/13b44299565f0f02d4df90d7cf33afaf/transformed/exifinterface-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/13b44299565f0f02d4df90d7cf33afaf/transformed/exifinterface-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/50b4d86790af1bf748a63f009dc38c2a/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/50b4d86790af1bf748a63f009dc38c2a/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/3319d20f8e2669ec6f44977658d2b94a/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/3319d20f8e2669ec6f44977658d2b94a/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/6fff338ba585ae053fbd544a7d77cb04/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/6fff338ba585ae053fbd544a7d77cb04/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.window.extensions.core:core:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/c76420ff2784f5aa74dd8234a1394fd3/transformed/jetified-core-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.window.extensions.core:core:1.0.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/c76420ff2784f5aa74dd8234a1394fd3/transformed/jetified-core-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/50cf800a1100a1cd9d6a4426cd9e1df0/transformed/jetified-annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/50cf800a1100a1cd9d6a4426cd9e1df0/transformed/jetified-annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/8cbab28268e55d993d44b385150b3ac1/transformed/jetified-relinker-1.4.5/AndroidManifest.xml:5:5-43
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/8cbab28268e55d993d44b385150b3ac1/transformed/jetified-relinker-1.4.5/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/0e41270407c9f24b7305b18cfe7361cc/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/0e41270407c9f24b7305b18cfe7361cc/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		INJECTED from /Users/kartikdonga/yukaapp/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kartikdonga/yukaapp/android/app/src/debug/AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from [:simple_barcode_scanner] /Users/kartikdonga/.pub-cache/hosted/pub.dev/simple_barcode_scanner-0.3.0/android/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:9:5-60
+MERGED from [:mobile_scanner] /Users/kartikdonga/.pub-cache/hosted/pub.dev/mobile_scanner-3.5.7/android/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:9:5-11:36
+MERGED from [:mobile_scanner] /Users/kartikdonga/.pub-cache/hosted/pub.dev/mobile_scanner-3.5.7/android/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:9:5-11:36
+	android:name
+		ADDED from [:simple_barcode_scanner] /Users/kartikdonga/.pub-cache/hosted/pub.dev/simple_barcode_scanner-0.3.0/android/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:9:19-57
+uses-permission#android.permission.FLASHLIGHT
+ADDED from [:simple_barcode_scanner] /Users/kartikdonga/.pub-cache/hosted/pub.dev/simple_barcode_scanner-0.3.0/android/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:11:5-69
+	android:name
+		ADDED from [:simple_barcode_scanner] /Users/kartikdonga/.pub-cache/hosted/pub.dev/simple_barcode_scanner-0.3.0/android/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:11:22-66
+activity#com.amolg.flutterbarcodescanner.BarcodeCaptureActivity
+ADDED from [:simple_barcode_scanner] /Users/kartikdonga/.pub-cache/hosted/pub.dev/simple_barcode_scanner-0.3.0/android/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:16:9-91
+	android:name
+		ADDED from [:simple_barcode_scanner] /Users/kartikdonga/.pub-cache/hosted/pub.dev/simple_barcode_scanner-0.3.0/android/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:16:19-88
+service#androidx.camera.core.impl.MetadataHolderService
+ADDED from [androidx.camera:camera-core:1.3.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/73a3c436f1c8a3e965de09e8e275b859/transformed/jetified-camera-core-1.3.1/AndroidManifest.xml:29:9-33:78
+MERGED from [androidx.camera:camera-camera2:1.3.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/4037082490325e85791822445558c6c3/transformed/jetified-camera-camera2-1.3.1/AndroidManifest.xml:24:9-33:19
+MERGED from [androidx.camera:camera-camera2:1.3.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/4037082490325e85791822445558c6c3/transformed/jetified-camera-camera2-1.3.1/AndroidManifest.xml:24:9-33:19
+	android:enabled
+		ADDED from [androidx.camera:camera-core:1.3.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/73a3c436f1c8a3e965de09e8e275b859/transformed/jetified-camera-core-1.3.1/AndroidManifest.xml:31:13-36
+	android:exported
+		ADDED from [androidx.camera:camera-core:1.3.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/73a3c436f1c8a3e965de09e8e275b859/transformed/jetified-camera-core-1.3.1/AndroidManifest.xml:32:13-37
+	tools:ignore
+		ADDED from [androidx.camera:camera-core:1.3.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/73a3c436f1c8a3e965de09e8e275b859/transformed/jetified-camera-core-1.3.1/AndroidManifest.xml:33:13-75
+	android:name
+		ADDED from [androidx.camera:camera-core:1.3.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/73a3c436f1c8a3e965de09e8e275b859/transformed/jetified-camera-core-1.3.1/AndroidManifest.xml:30:13-75
+meta-data#androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER
+ADDED from [androidx.camera:camera-camera2:1.3.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/4037082490325e85791822445558c6c3/transformed/jetified-camera-camera2-1.3.1/AndroidManifest.xml:30:13-32:89
+	android:value
+		ADDED from [androidx.camera:camera-camera2:1.3.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/4037082490325e85791822445558c6c3/transformed/jetified-camera-camera2-1.3.1/AndroidManifest.xml:32:17-86
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.3.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/4037082490325e85791822445558c6c3/transformed/jetified-camera-camera2-1.3.1/AndroidManifest.xml:31:17-103
+service#com.google.mlkit.common.internal.MlKitComponentDiscoveryService
+ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/b4c7238476297aae836e6939e70d83d1/transformed/jetified-play-services-mlkit-barcode-scanning-18.3.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:vision-common:17.3.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/1ae91f698bcbf11d0b971bacb5e1d977/transformed/jetified-vision-common-17.3.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:vision-common:17.3.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/1ae91f698bcbf11d0b971bacb5e1d977/transformed/jetified-vision-common-17.3.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:common:18.9.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/2bf4a0341c8d30f8ce139d1ec6052351/transformed/jetified-common-18.9.0/AndroidManifest.xml:15:9-23:19
+MERGED from [com.google.mlkit:common:18.9.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/2bf4a0341c8d30f8ce139d1ec6052351/transformed/jetified-common-18.9.0/AndroidManifest.xml:15:9-23:19
+	android:exported
+		ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/b4c7238476297aae836e6939e70d83d1/transformed/jetified-play-services-mlkit-barcode-scanning-18.3.0/AndroidManifest.xml:11:13-37
+	tools:targetApi
+		ADDED from [com.google.mlkit:common:18.9.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/2bf4a0341c8d30f8ce139d1ec6052351/transformed/jetified-common-18.9.0/AndroidManifest.xml:19:13-32
+	android:directBootAware
+		ADDED from [com.google.mlkit:common:18.9.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/2bf4a0341c8d30f8ce139d1ec6052351/transformed/jetified-common-18.9.0/AndroidManifest.xml:17:13-43
+	android:name
+		ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/b4c7238476297aae836e6939e70d83d1/transformed/jetified-play-services-mlkit-barcode-scanning-18.3.0/AndroidManifest.xml:10:13-91
+meta-data#com.google.firebase.components:com.google.mlkit.vision.barcode.internal.BarcodeRegistrar
+ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/b4c7238476297aae836e6939e70d83d1/transformed/jetified-play-services-mlkit-barcode-scanning-18.3.0/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/b4c7238476297aae836e6939e70d83d1/transformed/jetified-play-services-mlkit-barcode-scanning-18.3.0/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/b4c7238476297aae836e6939e70d83d1/transformed/jetified-play-services-mlkit-barcode-scanning-18.3.0/AndroidManifest.xml:13:17-120
+meta-data#com.google.firebase.components:com.google.mlkit.vision.common.internal.VisionCommonRegistrar
+ADDED from [com.google.mlkit:vision-common:17.3.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/1ae91f698bcbf11d0b971bacb5e1d977/transformed/jetified-vision-common-17.3.0/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.mlkit:vision-common:17.3.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/1ae91f698bcbf11d0b971bacb5e1d977/transformed/jetified-vision-common-17.3.0/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.mlkit:vision-common:17.3.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/1ae91f698bcbf11d0b971bacb5e1d977/transformed/jetified-vision-common-17.3.0/AndroidManifest.xml:13:17-124
+provider#com.google.mlkit.common.internal.MlKitInitProvider
+ADDED from [com.google.mlkit:common:18.9.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/2bf4a0341c8d30f8ce139d1ec6052351/transformed/jetified-common-18.9.0/AndroidManifest.xml:9:9-13:38
+	android:authorities
+		ADDED from [com.google.mlkit:common:18.9.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/2bf4a0341c8d30f8ce139d1ec6052351/transformed/jetified-common-18.9.0/AndroidManifest.xml:11:13-69
+	android:exported
+		ADDED from [com.google.mlkit:common:18.9.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/2bf4a0341c8d30f8ce139d1ec6052351/transformed/jetified-common-18.9.0/AndroidManifest.xml:12:13-37
+	android:initOrder
+		ADDED from [com.google.mlkit:common:18.9.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/2bf4a0341c8d30f8ce139d1ec6052351/transformed/jetified-common-18.9.0/AndroidManifest.xml:13:13-35
+	android:name
+		ADDED from [com.google.mlkit:common:18.9.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/2bf4a0341c8d30f8ce139d1ec6052351/transformed/jetified-common-18.9.0/AndroidManifest.xml:10:13-78
+meta-data#com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar
+ADDED from [com.google.mlkit:common:18.9.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/2bf4a0341c8d30f8ce139d1ec6052351/transformed/jetified-common-18.9.0/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.mlkit:common:18.9.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/2bf4a0341c8d30f8ce139d1ec6052351/transformed/jetified-common-18.9.0/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.mlkit:common:18.9.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/2bf4a0341c8d30f8ce139d1ec6052351/transformed/jetified-common-18.9.0/AndroidManifest.xml:21:17-120
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/54d5906a97075e5f659c23405985cd0a/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/54d5906a97075e5f659c23405985cd0a/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/54d5906a97075e5f659c23405985cd0a/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/54d5906a97075e5f659c23405985cd0a/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/0a60e3b46b61fcc8b97c1365700d5d34/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/0a60e3b46b61fcc8b97c1365700d5d34/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/0a60e3b46b61fcc8b97c1365700d5d34/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.2.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/a7130b998d61b810572eaef6b332ef46/transformed/jetified-window-1.2.0/AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.window:window:1.2.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/a7130b998d61b810572eaef6b332ef46/transformed/jetified-window-1.2.0/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.window:window:1.2.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/a7130b998d61b810572eaef6b332ef46/transformed/jetified-window-1.2.0/AndroidManifest.xml:24:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.2.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/a7130b998d61b810572eaef6b332ef46/transformed/jetified-window-1.2.0/AndroidManifest.xml:26:9-28:40
+	android:required
+		ADDED from [androidx.window:window:1.2.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/a7130b998d61b810572eaef6b332ef46/transformed/jetified-window-1.2.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.window:window:1.2.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/a7130b998d61b810572eaef6b332ef46/transformed/jetified-window-1.2.0/AndroidManifest.xml:27:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/918aa409debbc9a2ff8bdb56e9c80a9e/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/918aa409debbc9a2ff8bdb56e9c80a9e/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/918aa409debbc9a2ff8bdb56e9c80a9e/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+permission#com.example.yukaapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/918aa409debbc9a2ff8bdb56e9c80a9e/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/918aa409debbc9a2ff8bdb56e9c80a9e/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/918aa409debbc9a2ff8bdb56e9c80a9e/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/918aa409debbc9a2ff8bdb56e9c80a9e/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/918aa409debbc9a2ff8bdb56e9c80a9e/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+uses-permission#com.example.yukaapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/918aa409debbc9a2ff8bdb56e9c80a9e/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/918aa409debbc9a2ff8bdb56e9c80a9e/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/58a53480758983b5b5344317a784e4e3/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/f095e34f77be7a6367e8149f84a31ef5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/f095e34f77be7a6367e8149f84a31ef5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/8649fd127f340363591471f857d25ba5/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/8649fd127f340363591471f857d25ba5/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/58a53480758983b5b5344317a784e4e3/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/58a53480758983b5b5344317a784e4e3/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/58a53480758983b5b5344317a784e4e3/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/58a53480758983b5b5344317a784e4e3/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/58a53480758983b5b5344317a784e4e3/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/58a53480758983b5b5344317a784e4e3/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/58a53480758983b5b5344317a784e4e3/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/f095e34f77be7a6367e8149f84a31ef5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/f095e34f77be7a6367e8149f84a31ef5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/f095e34f77be7a6367e8149f84a31ef5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/f095e34f77be7a6367e8149f84a31ef5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/f095e34f77be7a6367e8149f84a31ef5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/f095e34f77be7a6367e8149f84a31ef5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/f095e34f77be7a6367e8149f84a31ef5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/f095e34f77be7a6367e8149f84a31ef5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/f095e34f77be7a6367e8149f84a31ef5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/f095e34f77be7a6367e8149f84a31ef5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/f095e34f77be7a6367e8149f84a31ef5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/f095e34f77be7a6367e8149f84a31ef5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/f095e34f77be7a6367e8149f84a31ef5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/f095e34f77be7a6367e8149f84a31ef5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/f095e34f77be7a6367e8149f84a31ef5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/f095e34f77be7a6367e8149f84a31ef5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/f095e34f77be7a6367e8149f84a31ef5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/f095e34f77be7a6367e8149f84a31ef5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/f095e34f77be7a6367e8149f84a31ef5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/f095e34f77be7a6367e8149f84a31ef5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/f095e34f77be7a6367e8149f84a31ef5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/790346a04aa70431edc31fc36c07d46b/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/367d09835625c4919cd1576cf1537515/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/367d09835625c4919cd1576cf1537515/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/790346a04aa70431edc31fc36c07d46b/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:25:22-76
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/790346a04aa70431edc31fc36c07d46b/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/367d09835625c4919cd1576cf1537515/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/367d09835625c4919cd1576cf1537515/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/790346a04aa70431edc31fc36c07d46b/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/790346a04aa70431edc31fc36c07d46b/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/790346a04aa70431edc31fc36c07d46b/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/790346a04aa70431edc31fc36c07d46b/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/790346a04aa70431edc31fc36c07d46b/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/367d09835625c4919cd1576cf1537515/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/367d09835625c4919cd1576cf1537515/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/367d09835625c4919cd1576cf1537515/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/367d09835625c4919cd1576cf1537515/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/367d09835625c4919cd1576cf1537515/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/367d09835625c4919cd1576cf1537515/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/kartikdonga/.gradle/caches/8.10.2/transforms/367d09835625c4919cd1576cf1537515/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:33:13-132
